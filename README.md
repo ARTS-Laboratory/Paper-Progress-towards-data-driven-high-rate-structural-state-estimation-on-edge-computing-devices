@@ -9,10 +9,6 @@ An Long-short term memory (LSTM) model is implemented onto a real-time controlle
 Figure 1: Experimental setup and block diagram of data flow within the hardware.
 </p>
 
-## Deployment
-
-## Training
-
 ## Results
 
 <p align="center">
