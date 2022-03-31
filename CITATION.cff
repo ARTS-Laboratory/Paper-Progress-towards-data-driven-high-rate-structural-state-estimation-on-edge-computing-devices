@@ -1,14 +1,27 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+- family-names: "Satme"
+  given-names: "Joud"
+  orcid: "https://orcid.org/0000-0002-6769-8234"
+- family-names: "Coble"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0003-2799-7528"
+- family-names: "Priddy"
+  given-names: "Braden"
+ 
+- family-names: "Downey"
+  given-names: "Austin"
+  orcid: "https://orcid.org/0000-0002-5524-2416"
+- family-names: "Bakos"
+  given-names: "Jason"
+  orcid: "https://orcid.org/0000-0002-0821-6258"
+- family-names: "Comert"
+  given-names: "Gurcan"
+  orcid: "https://orcid.org/0000-0002-2373-5013"
+title: "PROGRESS TOWARDS DATA-DRIVEN HIGH-RATE STRUCTURAL STATE
+ESTIMATION ON EDGE COMPUTING DEVICES"
+version: 1.0.0
+doi: 
+date-released: 2022-03-31
+url: "https://github.com/ARTS-Laboratory/Paper-Progress-towards-data-driven-high-rate-structural-state-estimation-on-edge-computing-devices"
